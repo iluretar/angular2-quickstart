@@ -13,7 +13,7 @@ Follow these steps:
 
 1: Clone repo
 ```
-git clone https://github.com/mschwarzmueller/angular-2-beta-boilerplate.git
+git clone https://github.com/iluretar/angular2-quickstart.git
 ```
 2: Install packages
 ```
