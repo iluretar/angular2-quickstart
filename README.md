@@ -19,7 +19,9 @@ git clone https://github.com/iluretar/angular2-quickstart.git
 ```
 npm install
 ```
-3: Start server (includes auto refreshing) and gulp watcher
+3: Build typescript files(F6 for Atom and F7 for SublimeText).
+
+4: Start server (includes auto refreshing) and gulp watcher
 ```
 npm start
 ```
